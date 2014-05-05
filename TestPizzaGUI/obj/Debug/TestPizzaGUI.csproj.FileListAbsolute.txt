@@ -1,0 +1,9 @@
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\TestPizzaGUI\TestPizzaGUI\bin\Debug\TestPizzaGUI.exe.config
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\TestPizzaGUI\TestPizzaGUI\bin\Debug\TestPizzaGUI.exe
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\TestPizzaGUI\TestPizzaGUI\bin\Debug\TestPizzaGUI.pdb
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\TestPizzaGUI\TestPizzaGUI\obj\Debug\TestPizzaGUI.csprojResolveAssemblyReference.cache
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\TestPizzaGUI\TestPizzaGUI\obj\Debug\TestPizzaGUI.Form1.resources
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\TestPizzaGUI\TestPizzaGUI\obj\Debug\TestPizzaGUI.Properties.Resources.resources
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\TestPizzaGUI\TestPizzaGUI\obj\Debug\TestPizzaGUI.csproj.GenerateResource.Cache
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\TestPizzaGUI\TestPizzaGUI\obj\Debug\TestPizzaGUI.exe
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\TestPizzaGUI\TestPizzaGUI\obj\Debug\TestPizzaGUI.pdb
